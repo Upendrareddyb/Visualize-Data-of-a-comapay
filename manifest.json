@@ -1,0 +1,15 @@
+{
+   "fileLocations": [
+       {
+           "URIs": [
+               "s3://s3-storage2024/LinkedIn company information datasets.csv"
+           ]
+       }
+   ],
+   "globalUploadSettings": {
+       "format": "CSV",
+       "delimiter": ",",
+       "textqualifier": "\"",
+       "containsHeader": "true"
+   }
+}
